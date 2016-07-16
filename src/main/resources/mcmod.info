@@ -1,0 +1,15 @@
+[
+{
+  "modid": "en3",
+  "name": "Ex Nihilo 3",
+  "description": "ROJO8399's test on updating Ex Nihilo",
+  "version": "0.0.1",
+  "mcversion": "1.9.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rojo8399"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
